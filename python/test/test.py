@@ -4,5 +4,6 @@ import os;
 
 def main():
 	print 'hello, world!';
-if name == "__main__":
+
+if __name__ == '__main__':
 	main();
